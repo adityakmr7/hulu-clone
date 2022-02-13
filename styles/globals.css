@@ -1,3 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.home__wrappper{
+  background-image: url('/main_img.jpeg');
+  height: 100vh;
+  /* height: 100%; */
+  background-repeat: no-repeat;
+  background-size: 100% 90%;
+  width: 100%;
+  background-color: black;
+}
 html,
 body {
   padding: 0;
