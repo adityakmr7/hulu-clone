@@ -1,6 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
 .home__wrappper{
   background-image: url('/main_img.jpeg');
   height: 100vh;
